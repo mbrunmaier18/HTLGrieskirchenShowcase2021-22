@@ -1,3 +1,10 @@
 [
-  
+   {  
+        "title": "project title",
+        "folder": "name of the folder",
+        "author": "my name",
+        "year": "folder name of the year",
+        "info": "info about your project",
+        "status": "0"
+    },
 ]
