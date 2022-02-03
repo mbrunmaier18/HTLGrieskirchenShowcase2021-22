@@ -5,8 +5,11 @@
 Click here to open the projects:
 
 ====================
-# [**List of projects**](https://AlfredDoppler.github.io/HTLGrieskirchenShowcase2021-22/)
+# [**List of projects**](https://alfredDoppler.github.io/HTLGrieskirchenShowcase2021-22/)
 ====================
+
+# [**List of projects**](https://alfreddoppler.github.io/HTLGrieskirchenShowcase2020-21/)
+
 
 
 The projects in this repository are for demonstration purposes only. 
