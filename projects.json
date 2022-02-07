@@ -1,13 +1,5 @@
-[
-   {  
-       "title": "Test",
-	    "folder": "test",
-	    "author": "test",
-	    "year": "2021_WS",
-	    "info": "test",
-	    "status": 0
-    },
-	{  
+[   
+    {  
         "title": "Pew Pew",
         "folder": "Pew Pew",
         "author": "Fabian Schönberger",
