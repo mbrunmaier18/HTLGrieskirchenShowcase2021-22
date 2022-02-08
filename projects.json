@@ -7,10 +7,26 @@
 		"info": "",
         "status": "1"
     },
-	{  
+    {  
         "title": "Potato Clicker",
         "folder": "PotatoClicker",
         "author": "SturmTim",
+        "year": "2021_WS",
+		"info": "",
+        "status": "1"
+    },
+    {
+	"title": "Pacman",
+        "folder": "Pacman",
+        "author": "Franz Einböck",
+        "year": "2021_WS",
+		"info": "",
+        "status": "1"
+    },
+    {  
+        "title": "Tetris",
+        "folder": "Tetris",
+        "author": "Franz Einböck",
         "year": "2021_WS",
 		"info": "",
         "status": "1"
